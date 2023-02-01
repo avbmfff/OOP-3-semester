@@ -1,0 +1,69 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=10b7b31d_002D6091_002D4c43_002D95fe_002De81bdd9b22d4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MessageTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::498943A2-244C-4E68-A59B-91F84C2C7F63::net6.0::MessageTest.MessageTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=12badb2f_002D9507_002D46d0_002D9a3d_002D88655aacf17f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddMessenger #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::498943A2-244C-4E68-A59B-91F84C2C7F63::net6.0::MessageTest.MessageTests.AddMessenger&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=439c4946_002D89a4_002D48b3_002Da16b_002D23f3f65bbc7d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Lab3&amp;gt;\&amp;lt;Backups.Test&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Project Location="C:\OOP\avbmfff-labs\Lab3\Backups.Test" Presentation="&amp;lt;Lab3&amp;gt;\&amp;lt;Backups.Test&amp;gt;" /&gt;&#xD;
+    &lt;ProjectFile&gt;BC58A504-2B89-4EC5-AD6F-E59CFFDAB64C/f:ShopServiceTest.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;Project Location="C:\OOP\avbmfff-labs\Lab2\Isu.Extra.Test" Presentation="&amp;lt;Lab2&amp;gt;\&amp;lt;Isu.Extra.Test&amp;gt;" /&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=68842755_002Dba7a_002D49a0_002D9343_002D85555ca2ef62/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Lab1&amp;gt;\&amp;lt;Shops.Test&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Project Location="C:\OOP\avbmfff-labs\Lab3\Backups.Test" Presentation="&amp;lt;Lab3&amp;gt;\&amp;lt;Backups.Test&amp;gt;" /&gt;&#xD;
+    &lt;Project Location="C:\OOP\avbmfff-labs\Lab2\Isu.Extra.Test" Presentation="&amp;lt;Lab2&amp;gt;\&amp;lt;Isu.Extra.Test&amp;gt;" /&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::A420634A-A065-492B-B4F5-DCA27B9C4CF3::net6.0::Banks.Test.BanksTest.CheckAccount&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::A420634A-A065-492B-B4F5-DCA27B9C4CF3::net6.0::Banks.Test.BanksTest&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=92bc4900_002D24d0_002D4fd2_002D8698_002D99e6775a1b4f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckAccount #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;A420634A-A065-492B-B4F5-DCA27B9C4CF3/f:BanksTest.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::CDC9197E-D627-4705-8056-E67C46B786C7::net6.0::Backups.Extra.Test.BackupExtraTest.Test1&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::498943A2-244C-4E68-A59B-91F84C2C7F63::net6.0::MessageTest.MessageTests.CreateWorker&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::498943A2-244C-4E68-A59B-91F84C2C7F63::net6.0::MessageTest.MessageTests.AddMessenger&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;CDC9197E-D627-4705-8056-E67C46B786C7/f:BackupExtraTest.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=98f30120_002De98e_002D4337_002D905d_002D289c3cfe1a2e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddMessenger #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\OOP\avbmfff-labs\Lab 6\MessageTest" Presentation="&amp;lt;Lab6&amp;gt;\&amp;lt;MessageTest&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ac6e0d0a_002D6697_002D4c1c_002Db09f_002Debf8b4c29e18/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddMessenger #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\OOP\avbmfff-labs\Lab 6\MessageTest" Presentation="&amp;lt;Lab6&amp;gt;\&amp;lt;MessageTest&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f0a075e2_002Dc8b3_002D44e0_002Db279_002Dd0df13d0c85d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckAccount" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;A420634A-A065-492B-B4F5-DCA27B9C4CF3/f:BanksTest.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;Project Location="C:\OOP\avbmfff-labs\Lab5\Backups.Extra.Test" Presentation="&amp;lt;Lab5&amp;gt;\&amp;lt;Backups.Extra.Test&amp;gt;" /&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fb5eb8d8_002Dc8b8_002D4cb0_002D9002_002D0187df4d84f9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Project Location="C:\OOP\avbmfff-labs\Lab3\Backups.Test" Presentation="&amp;lt;Lab3&amp;gt;\&amp;lt;Backups.Test&amp;gt;" /&gt;&#xD;
+    &lt;ProjectFile&gt;BC58A504-2B89-4EC5-AD6F-E59CFFDAB64C/f:ShopServiceTest.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;Project Location="C:\OOP\avbmfff-labs\Lab2\Isu.Extra.Test" Presentation="&amp;lt;Lab2&amp;gt;\&amp;lt;Isu.Extra.Test&amp;gt;" /&gt;&#xD;
+    &lt;Project Location="C:\OOP\avbmfff-labs\Lab4\Banks.Test" Presentation="&amp;lt;Lab4&amp;gt;\&amp;lt;Banks.Test&amp;gt;" /&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fcc6e24e_002D86df_002D4597_002Da24a_002Db70fdf5edbab/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddMessenger" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::498943A2-244C-4E68-A59B-91F84C2C7F63::net6.0::MessageTest.MessageTests.AddMessenger&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ffc7d8b6_002D31fc_002D4a26_002D9fa1_002Df686fd16cc91/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddMessenger #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::498943A2-244C-4E68-A59B-91F84C2C7F63::net6.0::MessageTest.MessageTests.AddMessenger&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

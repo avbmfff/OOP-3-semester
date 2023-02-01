@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4A4mVUHLlK9vIR3OFB6B4ic20C42/YISceuD9ZduU6Qmja7Cw9f4dVul+fEYtGeH2YnbOIxo7rXmKVPZaEnubQ==",
+  "success": true,
+  "projectFilePath": "C:\\OOP\\avbmfff-labs\\BusinessLayer\\BusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\annav\\.nuget\\packages\\microsoft.office.interop.word\\15.0.4797.1004\\microsoft.office.interop.word.15.0.4797.1004.nupkg.sha512"
+  ],
+  "logs": []
+}
